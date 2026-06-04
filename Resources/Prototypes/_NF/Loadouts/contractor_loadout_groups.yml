@@ -207,6 +207,13 @@
   - ContractorClothingUniformJumpskirtYellowTurtleneckDress
   - ContractorClothingUniformJumpskirtYellowOldDress
   - ContractorClothingUniformJabroni
+  - ContractorClothingUniformMNKBlackShoulder
+  - ContractorClothingUniformMNKTracksuitBlack
+  - ContractorClothingUniformMNKBlackOveralls
+  - ContractorClothingUniformMNKDressBlack
+  - ContractorClothingUniformMNKUnderGarment
+  - ContractorClothingUniformMNKOfficeSkirt
+  - ContractorClothingUniformMNKGymBra
 
   fallbacks:
   - ContractorClothingUniformJumpsuitColorGrey

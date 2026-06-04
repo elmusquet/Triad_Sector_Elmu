@@ -1,0 +1,62 @@
+﻿- type: loadout
+  id: ContractorClothingUniformMNKTracksuitBlack
+  effects:
+  - !type:GroupLoadoutEffect
+    proto: ContractorT3
+  price: 0 # Mono
+  equipment:
+    jumpsuit: ClothingUniformMNKTracksuitBlack
+
+- type: loadout
+  id: ContractorClothingUniformMNKBlackShoulder
+  effects:
+  - !type:GroupLoadoutEffect
+    proto: ContractorT3
+  price: 0 # Mono
+  equipment:
+    jumpsuit: ClothingUniformMNKBlackShoulder
+
+- type: loadout
+  id: ContractorClothingUniformMNKBlackOveralls
+  effects:
+  - !type:GroupLoadoutEffect
+    proto: ContractorT3
+  price: 0 # Mono
+  equipment:
+    jumpsuit: ClothingUniformMNKBlackOveralls
+
+- type: loadout
+  id: ContractorClothingUniformMNKDressBlack
+  effects:
+  - !type:GroupLoadoutEffect
+    proto: ContractorT3
+  price: 0 # Mono
+  equipment:
+    jumpsuit: ClothingUniformMNKDressBlack
+
+- type: loadout
+  id: ContractorClothingUniformMNKUnderGarment
+  effects:
+  - !type:GroupLoadoutEffect
+    proto: ContractorT3
+  price: 0 # Mono
+  equipment:
+    jumpsuit: ClothingUniformMNKUnderGarment
+
+- type: loadout
+  id: ContractorClothingUniformMNKOfficeSkirt
+  effects:
+  - !type:GroupLoadoutEffect
+    proto: ContractorT3
+  price: 0 # Mono
+  equipment:
+    jumpsuit: ClothingUniformMNKOfficeSkirt
+
+- type: loadout
+  id: ContractorClothingUniformMNKGymBra
+  effects:
+  - !type:GroupLoadoutEffect
+    proto: ContractorT3
+  price: 0 # Mono
+  equipment:
+    jumpsuit: ClothingUniformMNKGymBra
